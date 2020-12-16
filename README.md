@@ -7,10 +7,24 @@ import numpy as np.
 
 import pandas as pd.
 
-### 2º passo: carregar seu dataset para análise utilizando o pandas.
-df = pd.read_csv("https://pycourse.s3.amazonaws.com/bike-sharing.csv").
+### 2º passo: carregar seu dataset para análise utilizando o pandas
+
+df = pd.read_csv("https://pycourse.s3.amazonaws.com/bike-sharing.csv")
+
+### 3º passo: bibliotecas para plots
+
+import seaborn as sns
+import matplotlib.pyplot as plt
+from matplotlib import rcParams
+rcParams['figure.figsize'] = (16, 6)
+
+### 4º passo: realizar a leitura completa do arquivo
+
+df = pd.read_csv("https://pycourse.s3.amazonaws.com/bike-sharing.csv")
+df.head()
 
 ## Tudo pronto parar iniciar sua análise.
+
 ### A lista de códigos a seguir foi utilizada no módulo Analista de Machine Learning no Bootcamp Programador Python da IGTI.
 
 ### a) Como calcular o tamanho do dataset?
