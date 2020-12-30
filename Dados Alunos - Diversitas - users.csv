@@ -1,0 +1,236 @@
+Turma,First Name [Required],Last Name [Required],Email Address [Required],Password [Required],Org Unit Path [Required],Change Password at Next Sign-In
+3 anos,Pedro,Faria Ursine,pedro.ursine@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+3 anos,Felipe,Oliveira De Medeiros,felipe.medeiros@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+3 anos,Daniel,Ferreira Fernandes,daniel.fernandes@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+3 anos,Laura,Mello Alves Santos,laura.santos@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+4 anos,Amanda,Maria Andrade Borges,amanda.borges@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+4 anos,Ana,Júlia Gonçalves De Almeida,ana.almeida@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+4 anos,Caio,Araújo Batista Fróes,caio.froes@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+4 anos,Davi,Marques Rocha,davi.rocha@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+4 anos,Gabriel,Gomes Martins,gabriel.martins@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+4 anos,Nicolas,Silva Duarte,nicolas.duarte@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+4 anos,Sofia,Santos Barbosa Duarte,sofia.duarte@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+4 anos,Theo,De Oliveira Fórneas,theo.forneas@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+4 anos,Valentina,Leal Mendes De Oliveira,valentina.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+4 anos,Victor,Oliveira Scoralik,victor.scoralik@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Alice,Ferreira Fernandes,alice.fernandes@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Beatriz,Ferreira Silva,beatriz.silva@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Caio,De Jesus Gonzaga,caio.gonzaga@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Davi,Da Cruz Nadu Martins,davi.martins@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Davi,Noria Rodrigues Da Fonseca,davi.fonseca@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Felipe,Freire Corrêa,felipe.correa@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Gabriel,Silva Cançado Braga,gabriel.braga@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Guilherme,Costa Soares,guilherme.soares@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Guilherme,Magalhães Assunção Rodrigues Da Si,guilherme.si@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Humberto,Belchior Da Silva,humberto.silva@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Isabel,Oliveira Medeiros,isabel.medeiros@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Izabela,Oliveira Araújo Alves,izabela.alves@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Júlia,Ferreira Lacerda,julia.lacerda@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Lorenzo,Silva De Paulo,lorenzo.paulo@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Lucas,Matheus Lopes Madureira,lucas.madureira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Maria,Clara Vieira Rocha Medeiros,maria.medeiros@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Marina,Drumond Dos Reis,marina.reis@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Matheus,Silva Pimenta Dutra,matheus.dutra@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Mell,Gomes Santos,mell.santos@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Miguel,Déles Novaes Pazos,miguel.pazos@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Miguel,Lages Santos,miguel.santos@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+5 anos,Roberto,Romualdo Ferreira De Assis De Almeida,roberto.almeida@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
+1º Ano,Alberto,Esteves Dos Santos,alberto.santos@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Augusto,Magalhães França Barbosa De Oliveira,augusto.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Bernardo,De Vasconcellos Mann,bernardo.mann@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Caio,Silva De Souza,caio.souza@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Cauê,De Souza Martins,caue.martins@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Cecília,Fatima Ferreira Da Cruz,cecilia.cruz@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Clara,Coimbra Goulart,clara.goulart@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Esther,Guimarães Dias,esther.dias@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Gabriel,Coelho Coutinho,gabriel.coutinho@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Isabella,Adelina Cordeiro Maculan,isabella.maculan@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Israel,Alcantara Nunes Dias,israel.dias@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,João,Pedro Matias Bastos,joao.bastos@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Júlia,Helena Oliveira Fonseca,julia.fonseca@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Laura,Sousa Silva Moraes,laura.moraes@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Manuela,Garcia Veloso Oliveira,manuela.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Marlene,Estevam Soares,marlene.soares@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Miguel,Almeida Gomes De Faria,miguel.faria@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Miguel,Moreira Soares,miguel.soares@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Rafael,Oliveira Dalfior De Souza,rafael.souza@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Rafael,Silva Santos De Melo,rafael.melo@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Sophia,Lopes Pereira,sophia.pereira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+1º Ano,Yasmin,Bernardes De Avelar,yasmin.avelar@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Alice,Valério D'assunção,alice.dassuncao@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Arthur,Alves Dos Santos Vieira,arthur.vieira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Arthur,Brasil Rocha Campos,arthur.campos@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Artur,Gomes Ventura Souza,artur.souza@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Artur,Oliveira Lima,artur.lima@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Davi,Silva Gomes,davi.gomes@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Diego,Araújo Batista Fróes,diego.froes@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Gabriel,Santos Barbosa Duarte,gabriel.duarte@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Gabriel,Vasconcelos Oliveira,gabriel.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Guilherme,Gonçalves Miranda,guilherme.miranda@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Emanuela,Fernandes Pessamilio,emanuela.pessamilio@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Helena,De Lazari Mundim,helena.mundim@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Isadora,Jaqueline Silva De Carvalho,isadora.carvalho@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,João,Vitor Garcia Pereira,joao.pereira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Júlia,Ruckert Condé,julia.conde@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Lorenzo,Do Carmo Alves,lorenzo.alves@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Maria,Fernanda Bahia Otoni,maria.otoni@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Pedro,Moraes Da Cunha,pedro.cunha@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Pedro,Vargas De Oliveira,pedro.vargas@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+2º Ano,Théo,Caroba Rodrigues,theo.rodrigues@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Aghata,Shelton De Oliveira,aghata.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Sarah,De Souza Dias,sarah.dias@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Pedro,Oliveira Braga,pedro.braga@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Kaique,De Magalhães Oliveira,kaique.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Heitor,de Oliveira Fórneas,heitor.forneas@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Vitória,Mello Alves Santos,vitoria.santos@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Giovanne,Gonçalves de Almeida,giovanne.almeida@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Marcella,Silva Pimenta Dutra,marcella.dutra@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Catarina,Rodrigues Bergo,catarina.bergo@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Sophia,Shelton de Oliveira,sophia.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Agatha,Shelton de Oliveira,agatha.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Davi,Lucas de Faria Filisberto,davi.filisberto@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Mateus,Piedade Ferreira,mateus.ferreira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Marina,Paranhos dos Santos Ferreira,marina.ferreira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Pedro,Cruz Bernardes,pedro.bernardes@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Clarice,Viera Reis,clarice.reis@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,João,Guilherme Teodoro de Lima,joao.lima@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Guilherme,Cerqueira de Oliveira,guilherme.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Pedro,Brada de Oliveira,pedro.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Mariana,Diniz Faria Nascimento,mariana.nascimento@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Samuel,Teixeira Hoepers,samuel.hoepers@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Julia,Bragança Campelo,julia.campelo@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Fernando,Macedo Silva,fernando.silva@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Maria,Cecilia Souza de Abreu,maria.abreu@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Davi,Trant Lara,davi.lara@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Cecilia,Antunes de Barcelos,cecilia.barcelos@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Giovanna,Papini Serra,giovanna.serra@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Clarice,Santos de Oliveira Carvalho,clarice.carvalho@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+3º Ano,Miguel,Costa Ribeiro,miguel.ribeiro@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Emanoel,Freitas Kremser,emanoel.kremser@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Gustavo,Araújo Fagundes De Oliveira,gustavo.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Helena,Pereira De Oliveira Soares,helena.soares@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Pedro,Otávio Pena Godinho,pedro.godinho@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Theo,Muzzi Silva Fonseca,theo.fonseca@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Bernardo,Reis Medeiros,bernardo.medeiros@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Mateus,Silva Morelli,mateus.morelli@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Ana,Clara Ferreira Mello,ana.mello@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Miguel,Augusto Medeiros da Silva Ramos,miguel.ramos@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Camila,Amaral Erse,camila.erse@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Milene,Bernardo Lacerda,milene.lacerda@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Miguel,Lima Emerick,miguel.emerick@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Marcela,Lorena Miranda,marcela.miranda@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Clarissa,Chaves de Souza,clarissa.souza@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Davi,Ricardo Silva,davi.silva@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Marcelo,Esteves Gonçalves Lazzarotti Diniz,marcelo.diniz@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,João,Victor Lara Pedrosa,joao.pedrosa@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Kaique,França Rossi Silva,kaique.silva@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Miguel,Freire Corrêa Primo,miguel.primo@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Davi,Mota Megale,davi.megale@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Leonardo,Rodrigues Milagres,leonardo.milagres@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Ana,lUisa Martins Lage,ana.lage@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Fernanda,Camargo de Sá,fernanda.sa@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Theo,Muzzi Silva Fonsceca,theo.fonsceca@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+4º Ano,Rafaela,Evangelista Damasceno,rafaela.damasceno@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Laura,Vargas De Oliveira,laura.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Isadora,Silva De Souza,isadora.souza@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Heitor,Magalhães França Barbosa de Oliveira,heitor.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Isabela,Moreira Soares,isabela.soares@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Arthur,Vicente Soares do Nascimento,arthur.nascimento@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Álvaro,César Souza Xavier,alvaro.xavier@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Mariana,Rocha Calazans Dumont Gomes,mariana.gomes@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Arthur,Rodrigues Oliveira,arthur.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Livia,Ferreira de Faria,livia.faria@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Gabriel,Dias Felipe,gabriel.felipe@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Matheus,Coelho Ferreira,matheus.ferreira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Sofia,Menezes Minelli,sofia.minelli@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Pedro,Otavio Marques Amorim,pedro.amorim@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Davi,Antônio Dutra do Carmo,davi.carmo@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Pedro,Henrique Carvalho Paive Gê,pedro.ge@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Gabriel,Oliveira Dalfior de Souza,gabriel.souza@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Gabriela,Liz Teixeira Oliveira,gabriela.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Matheus,Ribeiro Coelho,matheus.coelho@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Vinicius,Gomes de Andrade,vinicius.andrade@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+5º Ano,Vinicius,Felix Nogueira,vinicius.nogueira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 1,VERDADEIRO
+6º Ano,Maria,Eduarda Carvalho Teixeira,maria.teixeira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Maria,Fernanda De Faria Ursine,maria.ursine@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Lucas,Vasconcelos Ferreira,lucas.ferreira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Felipe,Vasconcelos Ferreira,felipe.ferreira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Caio,Augustus De Sousa Nascimento,caio.nascimento@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Breno,Felipe Barbosa Vailante,breno.vailante@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Luiz,Henrique Rodrigues Bergo,luiz.bergo@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Thomaz,Hoepers,thomaz.hoepers@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Manuela,Braz Dal Molin,manuela.molin@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Mathias,Braz Dal Molin,mathias.molin@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Clara,Couto Vieira Braga,clara.braga@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Nicolas,Lima Machado,nicolas.machado@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Amanda,Lima Ferreira,amanda.ferreira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Carolina,Morais de Paula,carolina.paula@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Julia,Vieira Araujo,julia.araujo@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Kenzo,Amorim Nonaka,kenzo.nonaka@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Marcella,Maia Araújo Melo,marcella.melo@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Miguel,David Ribeiro de Oliveira,miguel.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Bianca,Isabelle Durães Araujo,bianca.araujo@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Davi,Rodrigues Fontana,davi.fontana@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Diogo,de Oliveira dos Santos,diogo.santos@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Miguel,Fraga Campos,miguel.campos@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Davi,Fraga Campos,davi.campos@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Bernardo,Muzzi Silva Fonseca,bernardo.fonseca@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Pedro,Henrique Silva de Andrade,pedro.andrade@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Ana,Livia Bianchini Quintão,ana.quintao@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+6º Ano,Manoel,Vinicius Corrêa Vieira,manoel.vieira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Mariah,Freitas Kremser,mariah.kremser@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,João,Vitor Pena Godinho,joao.godinho@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Bruno,Viana De Oliveira,bruno.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Vitor,Amaral Erse,vitor.erse@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Henrique,Esteves Gonçalves Lazzarotti Diniz,henrique.diniz@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,João,Pereira Nigri,joao.nigri@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,João,Alexandre Dias Cunha,joao.cunha@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Lucas,Assis Cardeal de Pádua,lucas.padua@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Larissa,Cravo Carvalho Câmara Santos,larissa.santos@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Giovanna,Marques Freire Barbosa,giovanna.barbosa@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Monique,Vitória Ribeiro Silva,monique.silva@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Sarah,Siqueira Lopes,sarah.lopes@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Thiago,Siqueira Lopes,thiago.lopes@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Ana,Clara Aparecida Teixeira de Oliveira,ana.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Leticia,Eto Filo Candido,leticia.candido@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Luiz,Octávio Florentino Bernardo,luiz.bernardo@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Emanuelly,dos Santos Pinto Soares,emanuelly.soares@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Thiago,Henriques Oliveira Soares,thiago.soares@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Gabriela,Rodrigues Milagres,gabriela.milagres@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Arthur,Felipe de Freitas Diniz,arthur.diniz@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Eduarda,Valentim Reis,eduarda.reis@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Atilio,Fernandes Pessamilio,atilio.pessamilio@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Maria,Eduarda Gonçalves dos Reis Rodrigues,maria.rodrigues@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+7º Ano,Ana,Luiza Simões de Almeida Mendes,ana.mendes@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Isabella,Catarina De Almeida Brandão Miranda,isabella.miranda@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Ana,Luiza Campos Ferreira,ana.ferreira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Gustavo,Godoi Gonçalves,gustavo.goncalves@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Felipe,Augusto Medeiros da Silva Ramos,felipe.ramos@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Leonardo,Dalbem Eto Lages,leonardo.lages@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Mateus,Maués Moreira,mateus.moreira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Henrique,Ferreira Lacerda,henrique.lacerda@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Emanuel,Honorato Campos Valicele,emanuel.valicele@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Julia,Menezes Minelli,julia.minelli@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Sofia,Alves Ferreira Fernandes,sofia.fernandes@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Bruna,Faria Menezes Vieira,bruna.vieira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Ellis,Morena Viana Silva,ellis.silva@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Maria,Eduarda Asiis Santos Silva,maria.silva@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Caio,Dal Médico Gomes Campos,caio.campos@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Gabriel,Vieira Reis,gabriel.reis@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Mariana,Andrade Dias,mariana.dias@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Fernanda,de Oliveira Freitas Mendes,fernanda.mendes@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+8º Ano,Isabela,Catarina de Almeida Brandão,isabela.brandao@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+9º Ano,Rafael,Freitas Kremser,rafael.kremser@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+9º Ano,Mateus,Vinícius Ribeiro Silva,mateus.silva@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+9º Ano,Gustavo,Henrique Leandro E Silva,gustavo.silva@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+9º Ano,Larissa,Ferreira de Faria,larissa.faria@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+9º Ano,Guilherme,Dias Felipe,guilherme.felipe@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+9º Ano,Gabriel,Morais de Paula,gabriel.paula@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+9º Ano,Mates,Vinicius Ribeiro Silva,mates.silva@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+9º Ano,Caio,Franco Nunes,caio.nunes@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+9º Ano,Isabelle,Renata Martins da Silva,isabelle.silva@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+9º Ano,Gusta,Henrique Leandro e Silva,gusta.silva@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+9º Ano,Maria,Clara Seabra da Silva,maria.seabra@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+9º Ano,Gabriela,Januzi de Oliveira Rambaldi,gabriela.rambaldi@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+9º Ano,Matheus,Gamarano Alves Martins,matheus.martins@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
+9º Ano,Clara,Vargas de Oliveira,clara.oliveira@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Fundamental 2,VERDADEIRO
