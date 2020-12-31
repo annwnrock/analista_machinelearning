@@ -1,4 +1,4 @@
-Turma,First Name [Required],Last Name [Required],Email Address [Required],Password [Required],Org Unit Path [Required],Change Password at Next Sign-In
+Turma,nome,sobrenome,email,senha,caminho,Change Password at Next Sign-In
 3 anos,Pedro,Faria Ursine,pedro.ursine@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
 3 anos,Felipe,Oliveira De Medeiros,felipe.medeiros@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
 3 anos,Daniel,Ferreira Fernandes,daniel.fernandes@aluno.colegiodiversitas.com.br,12345678,/Alunos/Ensino Infantil,VERDADEIRO
